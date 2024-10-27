@@ -102,8 +102,3 @@ npm run test
 
 - This client makes the pagination by itself, so if the method has more than 500 records the method will make the pagination and return all of them.
 
-# 🤝 How to contribute
-
-We focused just on some endpoints we need to use, but is really simple to add any other. 
-
-Feel free to contribute, start by opening a issue please.
